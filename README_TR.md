@@ -8,16 +8,16 @@ Hoş geldiniz! Burası, akademik hayatınızı kolaylaştıracak rehberlerin, de
 *Ekosistem içindeki ana duraklar ve rehberler:*
 
 <p align="left">
-  <a href="https://github.com/gelisim-nexus/nexus-survival-guide/tree/main/tr">
-    <img src="https://img.shields.io/badge/Akademik%20Rehber-Academic%20Guide-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <a href="https://github.com/gelisim-nexus/nexus-survival-guide/tree/main/en">
+    <img src="https://img.shields.io/badge/Academic%20Guide-Akademik%20Rehber-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   
-  <a href="https://github.com/gelisim-nexus/global-opportunities/tree/main/tr">
-    <img src="https://img.shields.io/badge/Global%20Fırsatlar-Global%20Opportunities-darkgreen?style=for-the-badge&logo=planetscale&logoColor=white" />
+  <a href="https://github.com/gelisim-nexus/global-opportunities/tree/main/en">
+    <img src="https://img.shields.io/badge/Global%20Opportunities-Global%20Fırsatlar-darkgreen?style=for-the-badge&logo=planetscale&logoColor=white" />
   </a>
   
-  <a href="https://github.com/gelisim-nexus/club-nexus/tree/main/tr">
-    <img src="https://img.shields.io/badge/Kulüpler-Clubs-red?style=for-the-badge&logo=discourse&logoColor=white" />
+  <a href="https://github.com/gelisim-nexus/club-nexus/tree/main/en">
+    <img src="https://img.shields.io/badge/Clubs-Kulüpler-red?style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
 </p>
 
