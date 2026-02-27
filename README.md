@@ -14,7 +14,7 @@ Lütfen devam etmek istediğiniz dili seçin:
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README_EN.md">
-    <img src="https://img.shields.io/badge/ENGLISH-Welcome%20to%20Nexus-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/ENGLISH-Welcome%20to%20Nexus!-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
   <br>
   <br>
