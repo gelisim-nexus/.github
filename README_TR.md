@@ -8,13 +8,15 @@ Hoş geldiniz! Burası, akademik hayatınızı kolaylaştıracak rehberlerin, de
 *Ekosistem içindeki ana duraklar ve rehberler:*
 
 <p align="left">
-  <a href="../../nexus-survival-guide">
+  <a href="https://github.com/gelisim-nexus/nexus-survival-guide/tree/main/tr">
     <img src="https://img.shields.io/badge/Akademik%20Rehber-Academic%20Guide-blue?style=for-the-badge&logo=googlescholar" />
   </a>
-  <a href="../../global-opportunities">
+  
+  <a href="https://github.com/gelisim-nexus/global-opportunities/tree/main/tr">
     <img src="https://img.shields.io/badge/Global%20Fırsatlar-Global%20Opportunities-orange?style=for-the-badge&logo=world" />
   </a>
-  <a href="../../club-nexus">
+  
+  <a href="https://github.com/gelisim-nexus/club-nexus/tree/main/tr">
     <img src="https://img.shields.io/badge/Kulüpler-Clubs-red?style=for-the-badge&logo=groups" />
   </a>
 </p>
