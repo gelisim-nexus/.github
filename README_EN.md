@@ -8,13 +8,13 @@ Welcome! This is an open-source, student-led academic ecosystem designed to faci
 *Key destinations and strategic guides within the ecosystem:*
 
 <p align="left">
-  <a href="../../nexus-survival-guide">
+  <a href="https://github.com/gelisim-nexus/nexus-survival-guide/tree/main/en">
     <img src="https://img.shields.io/badge/Academic%20Guide-Survival%20Guide-blue?style=for-the-badge&logo=googlescholar" />
   </a>
-  <a href="../../global-opportunities">
+  <a href="https://github.com/gelisim-nexus/global-opportunities/tree/main/en">
     <img src="https://img.shields.io/badge/Global%20Opportunities-ESC%20%26%20Erasmus-orange?style=for-the-badge&logo=world" />
   </a>
-  <a href="../../club-nexus">
+  <a href="https://github.com/gelisim-nexus/club-nexus/tree/main/en">
     <img src="https://img.shields.io/badge/Clubs-Campus%20Life-red?style=for-the-badge&logo=groups" />
   </a>
 </p>
@@ -26,10 +26,10 @@ Welcome! This is an open-source, student-led academic ecosystem designed to faci
 
 | Faculty | Content Summary | Access |
 | :--- | :--- | :--- |
-| 🧠 **FEASS** | Psychology, Sociology, and Social Sciences | [Browse →](../../iisbf-nexus) |
-| ⚙️ **Engineering** | Technical Courses, Math, Physics, and Coding | [Browse →](../../muhendislik-nexus) |
-| 🎨 **Art & Design** | Theory of Art and Basic Design Education | [Browse →](../../sanat-tasarim-nexus) |
-| ✈️ **Applied Sciences** | Aviation, Logistics, and Sector-Specific Training | [Browse →](../../uygulamali-bilimler-nexus) |
+| 🧠 **FEASS** | Psychology, Sociology, and Social Sciences | [Browse →](https://github.com/gelisim-nexus/feass-nexus/tree/main/en) |
+| ⚙️ **Engineering** | Technical Courses, Math, Physics, and Coding | [Browse →](https://github.com/gelisim-nexus/engineering-nexus/tree/main/en) |
+| 🎨 **Art & Design** | Theory of Art and Basic Design Education | [Browse →](https://github.com/gelisim-nexus/art-design-nexus/tree/main/en) |
+| ✈️ **Applied Sciences** | Aviation, Logistics, and Sector-Specific Training | [Browse →](https://github.com/gelisim-nexus/applied-sciences-nexus/tree/main/en) |
 
 ---
 
@@ -43,5 +43,8 @@ Gelisim Nexus operates on a "Wiki" principle. If you possess course notes or hav
 
 ---
 
-[⬅️ Back to Main (Language Selection) Page](../README.md)
-[⬅️ Ana sayfaya (Dil Seçimi) Dön](../README.md)
+<p align="left">
+  <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README.md">
+    <img src="https://img.shields.io/badge/%E2%AC%85%20Back%20to%20Language%20Selection-Black?style=flat-square" />
+  </a>
+</p>
