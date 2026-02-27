@@ -46,6 +46,8 @@ Gelisim Nexus bir "Vikipedi" mantığıyla çalışır. Eğer bir dersin notuna 
 
 ---
 
-[⬅️ Ana Sayfaya (Dil Seçimi) Dön](https://github.com/gelisim-nexus))
-
-[⬅️ Return to the Main (Language Select) Page](https://github.com/gelisim-nexus))
+<p align="left">
+  <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README.md">
+    <img src="https://img.shields.io/badge/%E2%AC%85%20Back%20to%20Language%20Selection-Black?style=flat-square" />
+  </a>
+</p>
