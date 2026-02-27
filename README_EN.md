@@ -21,15 +21,16 @@ Welcome! This is an open-source, student-led academic ecosystem designed to faci
 
 ---
 
-## 🎓 Faculty Archives
-*Collective knowledge pools organized by course codes and faculty curricula:*
+## 🎓 Knowledge Fields / Academic Archives
+*Collective knowledge pools organized by academic disciplines rather than administrative faculties.*
 
-| Faculty | Content Summary | Access |
+| Field / Discipline | Content Summary | Access |
 | :--- | :--- | :--- |
-| 🧠 **FEASS** | Psychology, Sociology, and Social Sciences | [Browse →](https://github.com/gelisim-nexus/feass-nexus/tree/main/en) |
-| ⚙️ **Engineering** | Technical Courses, Math, Physics, and Coding | [Browse →](https://github.com/gelisim-nexus/engineering-nexus/tree/main/en) |
-| 🎨 **Art & Design** | Theory of Art and Basic Design Education | [Browse →](https://github.com/gelisim-nexus/art-design-nexus/tree/main/en) |
-| ✈️ **Applied Sciences** | Aviation, Logistics, and Sector-Specific Training | [Browse →](https://github.com/gelisim-nexus/applied-sciences-nexus/tree/main/en) |
+| 🧠 **Social Sciences** | Psychology, Sociology, Economics, and Political Science. | [Browse →](https://github.com/gelisim-nexus/social-sciences-nexus/tree/main/en) |
+| 🧬 **Natural Sciences** | Physics, Chemistry, Biology, and Fundamental Mathematics. | [Browse →](https://github.com/gelisim-nexus/natural-sciences-nexus/tree/main/en) |
+| 💻 **Tech & Engineering** | Computer Science, Software, and Applied Technical courses. | [Browse →](https://github.com/gelisim-nexus/tech-engineering-nexus/tree/main/en) |
+| 🎨 **Arts & Humanities** | Design Theory, Philosophy, History, and Fine Arts. | [Browse →](https://github.com/gelisim-nexus/arts-humanities-nexus/tree/main/en) |
+| 🗣️ **Languages & Lit.** | Core courses for Turkish, English, and Foreign Languages. | [Browse →](https://github.com/gelisim-nexus/languages-nexus/tree/main/en) |
 
 ---
 
