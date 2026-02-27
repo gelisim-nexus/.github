@@ -1,6 +1,29 @@
-# 🏛️ Gelisim Nexus: Bilginin Demokratikleşmesi
+# 🏛️ Gelisim Nexus
+
+---
+
+## 🌐 Dil Seçimi / Language Selection
+
+Lütfen devam etmek istediğiniz dili seçin:
+*Please select your language to continue:*
+
+<p align="center">
+  <br>
+  <a href="./profile/README_TR.md">
+    <img src="https://img.shields.io/badge/TÜRKÇE-Giriş%20Yap-red?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./profile/README_EN.md">
+    <img src="https://img.shields.io/badge/ENGLISH-Enter%20Nexus-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  </a>
+  <br>
+  <br>
+</p>
+
+---
 
 [TR] Bu platform, bilginin özgürce paylaşıldığı, kolektif zeka ile zenginleşen ve akademik mirasın dijitalleşmesini hedefleyen bağımsız bir **Açık Kaynak (Open Source)** ekosistemidir.
+
 [EN] This platform is an independent **Open Source** ecosystem aiming for the democratization of knowledge and the digitalization of academic heritage through collective intelligence.
 
 ---
@@ -9,6 +32,7 @@
 *Knowledge grows by sharing.*
 
 Bu proje, bilginin sadece bireysel bir kazanım değil, toplumsal bir değer olduğu inancıyla; tüm öğrencilerin akademik süreçlerini kolaylaştırmak ve evrensel bilgi ağlarına (ESC, Erasmus+, Global NGO) erişimi demokratikleştirmek için kurulmuştur.
+
 This project was established with the belief that knowledge is not only an individual gain but also a social value; it aims to facilitate the academic processes of all students and to democratize access to universal knowledge networks (ESC, Erasmus+, Global NGO).
 
 ---
