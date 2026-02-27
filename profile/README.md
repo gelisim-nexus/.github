@@ -1,4 +1,4 @@
-# 🏛️ Gelisim Nexus
+# 🏛️ Gelişim Nexus
 
 ---
 
