@@ -50,4 +50,5 @@ This project was established with the belief that knowledge is not only an indiv
 ---
 
 > **Bağımsızlık Notu:** Bu platform öğrenci inisiyatifi ile kurulmuş bir dijital kütüphanedir ve herhangi bir kurumsal aidiyeti bulunmamaktadır.
+
 > **Independence Note:** This platform is a digital library established by student initiative and has no institutional affiliation.
