@@ -9,11 +9,11 @@ Lütfen devam etmek istediğiniz dili seçin:
 
 <p align="center">
   <br>
-  <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README_TR.md">
+  <a href="https://github.com/gelisim-nexus/.github/blob/main/README_TR.md">
     <img src="https://img.shields.io/badge/TÜRKÇE-Nexusa%20Hoşgeldin!-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README_EN.md">
+  <a href="https://github.com/gelisim-nexus/.github/blob/main/README_EN.md">
     <img src="https://img.shields.io/badge/ENGLISH-Welcome%20to%20Nexus!-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
   <br>
