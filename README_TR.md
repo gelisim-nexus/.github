@@ -29,10 +29,10 @@ Hoş geldiniz! Burası, akademik hayatınızı kolaylaştıracak rehberlerin, de
 | Bilim Dalı / Field | İçerik Özeti | Erişim |
 | :--- | :--- | :--- |
 | 🧠 **Sosyal Bilimler** | Psikoloji, Sosyoloji, Ekonomi, Siyaset ve İletişim dersleri. | [Göz At →](https://github.com/gelisim-nexus/social-sciences-nexus/tree/main/tr) |
-| 🧬 **Doğa ve Fen Bilimleri** | Fizik, Kimya, Biyoloji ve Temel Matematik dersleri. | [Göz At →](https://github.com/gelisim-nexus/natural-sciences-nexus/tree/main/tr) |
-| 💻 **Teknoloji ve Mühendislik** | Bilgisayar Bilimleri, Yazılım ve Uygulamalı Teknik dersler. | [Göz At →](https://github.com/gelisim-nexus/tech-engineering-nexus/tree/main/tr) |
-| 🎨 **Sanat ve Beşeri Bilimler** | Tasarım, Felsefe, Tarih ve Güzel Sanatlar. | [Göz At →](https://github.com/gelisim-nexus/arts-humanities-nexus/tree/main/tr) |
-| 🗣️ **Dil ve Literatür** | Türkçe, İngilizce ve diğer yabancı dil ortak dersleri. | [Göz At →](https://github.com/gelisim-nexus/languages-nexus/tree/main/tr) |
+| 🧬 **Doğa ve Fen Bilimleri** | Fizik, Kimya, Biyoloji ve Temel Matematik dersleri. | [Yakında!] |
+| 💻 **Teknoloji ve Mühendislik** | Bilgisayar Bilimleri, Yazılım ve Uygulamalı Teknik dersler. | [Yakında!] |
+| 🎨 **Sanat ve Beşeri Bilimler** | Tasarım, Felsefe, Tarih ve Güzel Sanatlar. | [Yakında!] |
+| 🗣️ **Dil ve Literatür** | Türkçe, İngilizce ve diğer yabancı dil ortak dersleri. | [Yakında!] |
 
 ---
 
