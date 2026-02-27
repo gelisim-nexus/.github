@@ -47,4 +47,5 @@ Gelisim Nexus bir "Vikipedi" mantığıyla çalışır. Eğer bir dersin notuna 
 ---
 
 [⬅️ Ana Sayfaya (Dil Seçimi) Dön](../README.md)
+
 [⬅️ Return to the Main (Language Select) Page](../README.md)
