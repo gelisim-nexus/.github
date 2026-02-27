@@ -9,12 +9,12 @@ Lütfen devam etmek istediğiniz dili seçin:
 
 <p align="center">
   <br>
-  <a href="./profile/README_TR.md">
-    <img src="https://img.shields.io/badge/TÜRKÇE-Nexusa%20Hoşgeldin!-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README_TR.md">
+    <img src="https://img.shields.io/badge/TÜRKÇE-Giriş%20Yap-red?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./profile/README_EN.md">
-    <img src="https://img.shields.io/badge/ENGLISH-Hello%20to%20Nexus!-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
+  <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README_EN.md">
+    <img src="https://img.shields.io/badge/ENGLISH-Enter%20Nexus-blue?style=for-the-badge&logo=github&logoColor=white" height="45" />
   </a>
   <br>
   <br>
