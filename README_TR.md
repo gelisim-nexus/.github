@@ -9,15 +9,15 @@ Hoş geldiniz! Burası, akademik hayatınızı kolaylaştıracak rehberlerin, de
 
 <p align="left">
   <a href="https://github.com/gelisim-nexus/nexus-survival-guide/tree/main/tr">
-    <img src="https://img.shields.io/badge/Akademik%20Rehber-Academic%20Guide-blue?style=for-the-badge&logo=googlescholar" />
+    <img src="https://img.shields.io/badge/Akademik%20Rehber-Academic%20Guide-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   
   <a href="https://github.com/gelisim-nexus/global-opportunities/tree/main/tr">
-    <img src="https://img.shields.io/badge/Global%20Fırsatlar-Global%20Opportunities-orange?style=for-the-badge&logo=world" />
+    <img src="https://img.shields.io/badge/Global%20Fırsatlar-Global%20Opportunities-darkgreen?style=for-the-badge&logo=planetscale&logoColor=white" />
   </a>
   
   <a href="https://github.com/gelisim-nexus/club-nexus/tree/main/tr">
-    <img src="https://img.shields.io/badge/Kulüpler-Clubs-red?style=for-the-badge&logo=groups" />
+    <img src="https://img.shields.io/badge/Kulüpler-Clubs-red?style=for-the-badge&logo=discourse&logoColor=white" />
   </a>
 </p>
 
@@ -48,6 +48,6 @@ Gelişim Nexus bir "Vikipedi" mantığıyla çalışır. Eğer bir dersin notuna
 
 <p align="left">
   <a href="https://github.com/gelisim-nexus/.github/blob/main/profile/README.md">
-    <img src="https://img.shields.io/badge/%E2%AC%85%20Back%20to%20Language%20Selection-Black?style=flat-square" />
+    <img src="https://img.shields.io/badge/RETURN_TO_LANGUAGE_SELECTION-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
