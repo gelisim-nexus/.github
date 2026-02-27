@@ -1,4 +1,4 @@
-# 🏛️ Gelisim Nexus: Türkçe
+# 🏛️ Gelişim Nexus: Türkçe
 
 Hoş geldiniz! Burası, akademik hayatınızı kolaylaştıracak rehberlerin, ders notlarının ve global fırsatların toplandığı ortak çalışma alanıdır. Bilginin paylaşıldıkça değer kazandığı bir ekosistem inşa ediyoruz.
 
@@ -38,7 +38,7 @@ Hoş geldiniz! Burası, akademik hayatınızı kolaylaştıracak rehberlerin, de
 
 ##  Nasıl Katkı Sağlarım?
 
-Gelisim Nexus bir "Vikipedi" mantığıyla çalışır. Eğer bir dersin notuna sahipseniz veya bir yönetmelik maddesini çözdüyseniz, topluluğa katkı sağlayabilirsiniz:
+Gelişim Nexus bir "Vikipedi" mantığıyla çalışır. Eğer bir dersin notuna sahipseniz veya bir yönetmelik maddesini çözdüyseniz, topluluğa katkı sağlayabilirsiniz:
 
 1. **Not Ekleme:** İlgili fakülte reposuna giderek eksik dersler için doküman oluşturun.
 2. **Hata Düzeltme:** Mevcut notlarda yanlış bir bilgi görürseniz "Düzenle" butonunu kullanın.
