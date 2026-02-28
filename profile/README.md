@@ -2,7 +2,7 @@
 
 ---
 
-## 🌐 Dil Seçimi / Language Selection
+## Dil Seçimi / Language Selection
 
 Lütfen devam etmek istediğiniz dili seçin:
 *Please select your language to continue:*
@@ -28,7 +28,7 @@ Lütfen devam etmek istediğiniz dili seçin:
 
 ---
 
-## 💡 Motto: "Bilgi, Paylaştıkça Çoğalır"
+## Motto: "Bilgi, Paylaştıkça Çoğalır"
 *Knowledge grows by sharing.*
 
 Bu proje, bilginin sadece bireysel bir kazanım değil, toplumsal bir değer olduğu inancıyla; tüm öğrencilerin akademik süreçlerini kolaylaştırmak ve evrensel bilgi ağlarına (ESC, Erasmus+, Global NGO) erişimi demokratikleştirmek için kurulmuştur.
@@ -37,12 +37,12 @@ This project was established with the belief that knowledge is not only an indiv
 
 ---
 
-## 🛠️ Katılım İlkeleri
+## Katılım İlkeleri
 1. **Ücretsiz Erişim:** Tüm kaynaklar her zaman ücretsiz ve erişilebilir kalacaktır.
 2. **Açık Kaynak Ruhu:**  Herkes editör, herkes yazardır.
 3. **Akademik Dürüstlük:** Bilginin doğruluğu topluluk denetimi ile sağlanır.
 
-## 🛠️ Contribution Principles
+## Contribution Principles
 1. **Free Access:** All resources will always remain free and accessible.
 2. **Open Source Spirit:** Everyone is an editor, everyone is an author.
 3. **Academic Integrity:** The accuracy of information is maintained through community peer review.
