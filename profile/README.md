@@ -49,7 +49,7 @@ Eğer bu platformda yer alan herhangi bir içeriğin size ait telif haklarını 
 
 Bildiriminiz tarafımıza ulaştıktan sonra gerekli incelemeler yapılacak ve haklılık durumunda ilgili içerik 24 ile 48 saat içerisinde sistemimizden kalıcı olarak kaldırılacaktır.
 
-**İletişim:** gelisimnexus@gmail.com /
+**İletişim:** gelisimnexus@gmail.com / [Github Issues](https://github.com/gelisim-nexus/.github/issues)
 
 ---
 
@@ -65,7 +65,7 @@ If you believe that any content on this platform infringes upon your copyright o
 
 Once your notification is received, the request will be reviewed, and upon verification, the relevant content will be permanently removed from our system within 24 to 48 hours.
 
-**Contact:** gelisimnexus@gmail.com /
+**Contact:** gelisimnexus@gmail.com / [Github Issues](https://github.com/gelisim-nexus/.github/issues)
 
 ---
 
