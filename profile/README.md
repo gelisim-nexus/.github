@@ -37,6 +37,38 @@ This project was established with the belief that knowledge is not only an indiv
 
 ---
 
+**TR: Telif Hakları Bildirimi ve İçerik Kaldırma Protokolü**
+
+Gelişim Nexus, eğitimde fırsat eşitliği ve bilginin demokratikleşmesi amacıyla oluşturulmuş, kar amacı gütmeyen açık kaynaklı bir topluluk projesidir. Bu arşivde yer alan materyaller, ders notları ve çeşitli akademik kaynakların sentezlenmesiyle oluşturulmuş "türetilmiş eser" niteliğindedir. Telif haklarına duyduğumuz saygı gereği, üçüncü şahıslara veya kurumlara ait orijinal ders materyalleri (slaytlar, PDF'ler, dijital kitaplar) sistemimizde doğrudan barındırılmamaktadır.
+
+Eğer bu platformda yer alan herhangi bir içeriğin size ait telif haklarını ihlal ettiğini düşünüyorsanız veya içeriğinizin bu arşivde bulunmasını istemiyorsanız, lütfen aşağıdaki adımları izleyerek bizimle iletişime geçiniz:
+
+1. İhlal edildiği iddia edilen çalışmanın tam adı ve konumu (URL/Dosya yolu).
+2. Hak sahibi olduğunuzu doğrulayan kısa bir beyan.
+3. İletişim bilgileriniz.
+
+Bildiriminiz tarafımıza ulaştıktan sonra gerekli incelemeler yapılacak ve haklılık durumunda ilgili içerik 24 ile 48 saat içerisinde sistemimizden kalıcı olarak kaldırılacaktır.
+
+**İletişim:** gelisimnexus@gmail.com /
+
+---
+
+**EN: Copyright Notice and Takedown Policy**
+
+Gelişim Nexus is a non-profit, open-source community project dedicated to educational equity and the democratization of knowledge. The materials within this archive are "derivative works" created by synthesizing lecture notes and various academic resources. Out of respect for intellectual property, original course materials (slides, PDFs, digital books) belonging to third parties or institutions are not directly hosted on our system.
+
+If you believe that any content on this platform infringes upon your copyright or if you wish for your material to be removed from this archive, please contact us by providing the following:
+
+1. The exact name and location (URL/File path) of the content in question.
+2. A brief statement verifying that you are the rightful owner.
+3. Your contact information.
+
+Once your notification is received, the request will be reviewed, and upon verification, the relevant content will be permanently removed from our system within 24 to 48 hours.
+
+**Contact:** gelisimnexus@gmail.com /
+
+---
+
 ## Katılım İlkeleri
 1. **Ücretsiz Erişim:** Tüm kaynaklar her zaman ücretsiz ve erişilebilir kalacaktır.
 2. **Açık Kaynak Ruhu:**  Herkes editör, herkes yazardır.
